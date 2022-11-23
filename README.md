@@ -20,7 +20,7 @@ Use MATLAB 2018 or above to build MTTML. Users should not change the Directory P
          ⁃	DFNN Ensemble Number: Number of DFNNs that are ensembled with each other.\
          ⁃	DFNN’s Tapped Delay Block: Maximum tapped Delay block in the DFNN.\
          ⁃	DFNN’s Hidden Layer Neuron: Maximum number of neurons in the hidden layer.
-   -	 GA Optimization Parameters: Genetic optimization model with multiple hidden layers.
+    -	 GA Optimization Parameters: Genetic optimization model with multiple hidden layers.
          ⁃	DFNN Ensemble Number: Number of DFNN’s that are ensembled with each other.\
          ⁃	DFNN Hidden Layers: Maximum number of hidden layers in the DFNN.\
          ⁃	DFNN’s Tapped Delay Block: Maximum tapped Delay block in the DFNN.\
