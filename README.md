@@ -16,11 +16,11 @@ Use MATLAB 2018 or above to build MTTML. Users should not change the Directory P
     -	D.MTT: This variable is the vector array of the actual watershed’s MTT time series that includes NaN values.
 3.  The “Initialization.txt” file contains the required initializations for the MTTML model. In summary,
     -    Optimization Method: ‘SFS’, ‘GA’, or ‘PSO’.
-    -	 SFS Optimization Parameters: SFS optimization method is merely used for DFNN’s with one hidden layer.
+    -	 SFS Optimization Parameters: SFS optimization method is merely used for DFNN’s with one hidden layer.\
          ⁃	DFNN Ensemble Number: Number of DFNNs that are ensembled with each other.\
          ⁃	DFNN’s Tapped Delay Block: Maximum tapped Delay block in the DFNN.\
          ⁃	DFNN’s Hidden Layer Neuron: Maximum number of neurons in the hidden layer.
-    -	 GA Optimization Parameters: Genetic optimization model with multiple hidden layers.
+    -	 GA Optimization Parameters: Genetic optimization model with multiple hidden layers.\
          ⁃	DFNN Ensemble Number: Number of DFNN’s that are ensembled with each other.\
          ⁃	DFNN Hidden Layers: Maximum number of hidden layers in the DFNN.\
          ⁃	DFNN’s Tapped Delay Block: Maximum tapped Delay block in the DFNN.\
@@ -31,7 +31,7 @@ Use MATLAB 2018 or above to build MTTML. Users should not change the Directory P
          ⁃	Mutation Percentage: The percentage of the population that is mutated in each iteration.\
          ⁃ 	Mutation Rate: The percentage of the DFNN’s features that are mutated.
          ⁃	Selection Pressure: This Parameter is the selection pressure factor of Boltzmann selection.
-    -	 PSO Optimization Parameters: PSO optimization model with multiple hidden layers.
+    -	 PSO Optimization Parameters: PSO optimization model with multiple hidden layers.\
          ⁃	DFNN Ensemble Number: Number of DFNNs that are ensembled with each other.\
          ⁃	DFNN Hidden Layers: Maximum number of hidden layers in the DFNN.\
          ⁃	DFNN’s Tapped Delay Block: Maximum tapped Delay block of the DFNN.\
