@@ -40,27 +40,27 @@ Use MATLAB 2018 or above to build MTTML. Users should not change the Directory P
          -	**Population Number:** Number of DFNNs that are generated as the initial population of PSO.
 # Example:
 <pre>
-'SFS'        % Choose the Optimization Method\
-% SFS-Initialization\
-50           % DFNN Ensemble Number\
-30           % Max Tap Delay Block\
-50           % Max Number of Neurons in the Hidden Layers\
-% GA-Initialization\
-50           % DFNN Ensemble Number\
-3            % Max Number of Hidden Layers\
-30           % Max Tap Delay Block\
-50           % Max Number of Neurons in the Layers\
-100          % Maximum Number of Iterations\
-100          % Population Size\
-0.8          % Crossover Percentage\
-0.3          % Mutation Percentage\
-0.2          % Mutation Rate\
-10           % Selection Pressure\
-% PSO-Initialization\
-50           % DFNN Ensemble Number\
-3            % Max Number of Hidden Layers\
-30           % Max Tap Delay Block\
-50           % Max Number of Neurons in the Layers\
-100          % Maximum Number of Iterations\
+'SFS'        % Choose the Optimization Method
+% SFS-Initialization
+50           % DFNN Ensemble Number
+30           % Max Tap Delay Block
+50           % Max Number of Neurons in the Hidden Layers
+% GA-Initialization
+50           % DFNN Ensemble Number
+3            % Max Number of Hidden Layers
+30           % Max Tap Delay Block
+50           % Max Number of Neurons in the Layers
+100          % Maximum Number of Iterations
+100          % Population Size
+0.8          % Crossover Percentage
+0.3          % Mutation Percentage
+0.2          % Mutation Rate
+10           % Selection Pressure
+% PSO-Initialization
+50           % DFNN Ensemble Number
+3            % Max Number of Hidden Layers
+30           % Max Tap Delay Block
+50           % Max Number of Neurons in the Layers
+100          % Maximum Number of Iterations
 100          % Population Size
 
