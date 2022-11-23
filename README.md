@@ -38,8 +38,8 @@ Use MATLAB 2018 or above to build MTTML. Users should not change the Directory P
          -	DFNN’s Hidden Layer Neuron: Maximum number of neurons in each hidden layer.
          -	Iteration Number: Maximum number of iterations.
          -	Population Number: Number of DFNNs that are generated as the initial population of PSO.
-Example:
-'SFS'        % Choose the Optimization Method\
+# Example:
+'SFS' <br />        % Choose the Optimization Method\
 % SFS-Initialization\
 50           % DFNN Ensemble Number\
 30           % Max Tap Delay Block\
