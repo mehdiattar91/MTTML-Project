@@ -1,0 +1,23 @@
+'PSO'       % Choose Optimization Method
+% SFS-Initialization
+50          % DFNN Ensemble Number
+30          % Max Tap Delay Block
+50          % Max Neuron Number of Layer Hidden One
+% GA-Initialization
+50          % DFNN Ensemble Number
+3           % Max Number of Hidden Layers
+30          % Max Tap Delay Block
+50          % Max Neuron Number of Layers
+100         % Maximum Number of Iterations
+100         % Population Size
+0.8         % Crossover Percentage
+0.3         % Mutation Percentage
+0.1         % Mutation Rate
+10          % Selection Pressure
+% PSO-Initalization
+50          % DFNN Ensemble Number
+3           % Max Number of Hidden Layers
+30          % Max Tap Delay Block
+50          % Max Neuron Number of Layers
+100         % Maximum Number of Iterations
+100         % Population Size
